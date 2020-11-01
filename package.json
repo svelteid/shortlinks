@@ -1,0 +1,17 @@
+{
+  "name": "@svelteid/shortlinks",
+  "version": "1.0.0",
+  "description": "Collection of shortlinks for sveltejs.id",
+  "main": "N/A",
+  "repository": "https://github.com/svelteid/shortlinks.git",
+  "author": "Svelte Indonesia <sveltejs.id@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "baseUrl": "https://s.sveltejs.id",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "devDependencies": {
+    "netlify-shortener": "^1.0.4"
+  }
+}
